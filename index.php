@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Bread products</h1>
         <p> List of bread products</p>
+        <span>Ingredients</span>
         <?php
         // put your code here
         ?>
