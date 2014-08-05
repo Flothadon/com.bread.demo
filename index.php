@@ -11,11 +11,17 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Bread products</h1>
-        
+
         <h2>Seasonal breadslist</h2>
         <span>Ingredients</span>
+
+        <span>ingredients list</span> 
+        <p>list</p>
+        <p> List of bread products</p>
+
         <?php
         // put your code here
         ?>
+    
     </body>
 </html>
