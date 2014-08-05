@@ -17,6 +17,7 @@ and open the template in the editor.
 
         <span>ingredients list</span> 
         <p>list</p>
+        <span> Notes stuff</span>
         <p> List of bread products</p>
 
         <?php
